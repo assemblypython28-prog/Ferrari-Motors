@@ -324,6 +324,7 @@ VALUES (2, 2, '2025-10-01', 'Troca de pastilhas de freio', 2500.00);
 INSERT INTO item_manutencao (idManutencao, idPeca, quantidade, valor_unitario)
 VALUES (1, 2, 1, 1800.00);
 
+
 -- ==========================================================
 -- 🔍 CONSULTAS DE TESTE
 -- ==========================================================
